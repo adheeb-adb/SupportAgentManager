@@ -82,7 +82,7 @@ namespace SupportAgentManager.Services
         {
             List<SupportAgent> supportAgents = new List<SupportAgent>
             {
-                /*new SupportAgent { Id = 1, Name = "Orlando Baird", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
+                new SupportAgent { Id = 1, Name = "Orlando Baird", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
                 new SupportAgent { Id = 2, Name = "Saniya Le", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
                 new SupportAgent { Id = 3, Name = "Adrian Duarte", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
                 new SupportAgent { Id = 4, Name = "Johnathon Noble", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
@@ -97,12 +97,12 @@ namespace SupportAgentManager.Services
                 new SupportAgent { Id = 13, Name = "Wade James", SeniorityLevel = SeniorityLevel.MidLevel, ShiftType = SupportShiftType.Night },
                 new SupportAgent { Id = 14, Name = "Sonny Horton", SeniorityLevel = SeniorityLevel.MidLevel, ShiftType = SupportShiftType.Night },
                 new SupportAgent { Id = 15, Name = "Hadley Mccarty", SeniorityLevel = SeniorityLevel.TeamLead, ShiftType = SupportShiftType.Business },
-                new SupportAgent { Id = 16, Name = "Nigel Flowers", SeniorityLevel = SeniorityLevel.Senior, ShiftType = SupportShiftType.Mid },*/
+                new SupportAgent { Id = 16, Name = "Nigel Flowers", SeniorityLevel = SeniorityLevel.Senior, ShiftType = SupportShiftType.Mid },
 
                 // Added for teseting, Cane be uncommentd to test out scenarios
-                new SupportAgent { Id = 17, Name = "Jeremy Clarkson", SeniorityLevel = SeniorityLevel.Junior, ShiftType = SupportShiftType.Business },
+                /*new SupportAgent { Id = 17, Name = "Jeremy Clarkson", SeniorityLevel = SeniorityLevel.Junior, ShiftType = SupportShiftType.Business },
                 new SupportAgent { Id = 18, Name = "James May", SeniorityLevel = SeniorityLevel.Junior, ShiftType = SupportShiftType.Business },
-                new SupportAgent { Id = 19, Name = "Richard Hammond", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },
+                new SupportAgent { Id = 19, Name = "Richard Hammond", SeniorityLevel = SeniorityLevel.Reserve, ShiftType = SupportShiftType.Business },*/
 
             };
 
